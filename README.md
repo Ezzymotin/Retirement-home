@@ -21,6 +21,7 @@ This project is focused on managing and improving the operations of a retirement
     ```bash
     npm install
     ```
+    View site{http://127.0.0.1:5502/index.html}
 
 ## Usage
 Run the application:
