@@ -1,4 +1,3 @@
-
 # Retirement Home Project
 
 ## Overview
@@ -26,7 +25,15 @@ This project is focused on managing and improving the operations of a retirement
 ## Usage
 Run the application:
 ```bash
+```nmp start
 ```
+
+## Contributions
+Contributions are welcome!If you would like to collaborate:
+ *Fork the repository.
+ *Create a new branch for your feature or bug fix.
+ *Submit a pull request from review.
+
 ## Author
 This project is verified by Ezrah Motine
 
